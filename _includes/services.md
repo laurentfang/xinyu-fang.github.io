@@ -22,5 +22,5 @@
 <h4 style="margin:0 10px 0;">Membership & Activities</h4>
 
 <ul style="margin:0 0 20px;">
-  <li><strong>[2022-present]</strong> Graduate Student Member of the <a href="https://www.ieee.org/" target="_blank"> Institute of Electrical and Electronics Engineers </a></li>
+  <li><strong>[2022-present]</strong> Graduate Student Member of the <a href="https://www.ieee.org/" target="_blank"> Institute of Electrical and Electronics Engineers (IEEE) </a></li>
 </ul>
