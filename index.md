@@ -11,7 +11,7 @@ Silvia Ferrari</a>. My research involves developing control policies for Unmanne
 aim to navigate or plan obstacle free paths, and autonomous driving.
  
 Prior to joining the Ph.D. program, I completed my bachelor's degree in Chemical Engineering from The Ohio State University
-</a> advised by Prof. <a href= "https://cbe.osu.edu/people/wang.12206" target = "_blank"> Xiaoguang Wang</a>.
+advised by Prof. <a href= "https://cbe.osu.edu/people/wang.12206" target = "_blank"> Xiaoguang Wang</a>.
 
 Outside of academia, I am a father of a Samoye dog (Coconut) and 8 cats (Issac, Burberry, Jona, Humphrey, Blink, 
 Charlotte, Tisha, and Lily). I enjoy driving, off-roading, camping, kayaking, hiking, etc.
