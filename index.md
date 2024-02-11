@@ -26,7 +26,7 @@ Charlotte, Tisha, and Lily). I enjoy driving, off-roading, camping, kayaking, hi
 
 <!-- {% include_relative _includes/publications.md %} -->
 
-{% include_relative _includes/projects.md %}
+<!--{% include_relative _includes/projects.md %}
 
 {% include_relative _includes/talks.md %}
 
