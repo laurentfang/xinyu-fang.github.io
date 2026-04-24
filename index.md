@@ -2,6 +2,66 @@
 layout: homepage
 ---
 
+<div class="otw-banner" role="note" aria-label="Open to work">
+  <div class="otw-dot"></div>
+  <div class="otw-text">
+    <strong>Open to Work</strong> — actively interviewing for
+    <em>Robotics / Autonomy · Machine Learning · Software Engineering</em> roles.
+    Open to <strong>full-time</strong>, <strong>remote</strong>, or <strong>US relocation</strong>;
+    available to start <strong>immediately</strong>.
+  </div>
+  <div class="otw-actions">
+    <a href="mailto:xf223@cornell.edu?subject=Opportunity%20for%20Xinyu%20Fang" class="btn-chip btn-chip-solid">Email Me</a>
+    <a href="https://www.linkedin.com/in/xinyufang/" target="_blank" rel="noopener" class="btn-chip">LinkedIn</a>
+    <a href="assets/files/cv-xinyu-fang.pdf" target="_blank" class="btn-chip">Industry CV</a>
+    <a href="assets/files/cv-xinyu-fang-academic.pdf" target="_blank" class="btn-chip">Academic CV</a>
+  </div>
+</div>
+
+## Highlights
+
+<div class="hl-grid">
+
+<div class="hl-card">
+  <div class="hl-icon">🤖</div>
+  <h4>Robotics &amp; Autonomy</h4>
+  <p>Ph.D. in robotics from Cornell (Ferrari Lab). Shipping real UAS autonomy today — BVLOS drone operations, multi-sensor fusion (LiDAR · thermal · IMU · camera), PX4 / ROS 2, FAA Part 107 / LAANC, sim-to-real with Unreal Engine digital twins.</p>
+</div>
+
+<div class="hl-card">
+  <div class="hl-icon">🧠</div>
+  <h4>Machine Learning &amp; AI</h4>
+  <p>Deep learning, computer vision (YOLO), reinforcement / imitation learning, spiking neural networks, RKHS, and multi-objective optimization. Four peer-reviewed publications including <em>Nature Communications</em>.</p>
+</div>
+
+<div class="hl-card">
+  <div class="hl-icon">💻</div>
+  <h4>Software Engineering</h4>
+  <p>Production Python, C++, Swift (iOS), and MATLAB across research and industry. Lead engineer on an AI-powered iOS emergency-dispatch platform at Buzz Inc. — from onboard perception to field-ready deployment.</p>
+</div>
+
+<div class="hl-card">
+  <div class="hl-icon">🎯</div>
+  <h4>Control Systems</h4>
+  <p>MPC, gain-scheduled PIF, nonlinear &amp; data-driven control, adaptive neural controllers. Industry collaboration with <strong>Ferrari S.p.A.</strong> on ADAS — MPC-based autonomous overtaking and sensor-fusion vehicle dynamics.</p>
+</div>
+
+<div class="hl-card">
+  <div class="hl-icon">🚀</div>
+  <h4>Industry Experience</h4>
+  <p><strong>Buzz Inc.</strong> (Autonomous UAS Engineer) · <strong>Eve Vehicles</strong> (Engineering Intern) · <strong>Ferrari S.p.A.</strong> (ADAS Research Collaborator) — production systems for public safety, BVLOS operations, and autonomous driving.</p>
+</div>
+
+<div class="hl-card">
+  <div class="hl-icon">🛠️</div>
+  <h4>End-to-End Systems</h4>
+  <p>I own the full stack — dynamics modeling → perception → control → simulation → iOS deployment. Comfortable from electrophysiology and neuromorphic hardware to production cloud and mobile code.</p>
+</div>
+
+</div>
+
+---
+
 ## About Me
 
 I'm a PhD roboticist ([Cornell](https://www.cornell.edu/) · [Ferrari Lab](http://lisc.mae.cornell.edu/))
@@ -51,8 +111,6 @@ Charlotte, Tisha, and Lily). I enjoy driving, off-roading, camping, kayaking, an
 
 <p style="margin: 0.5rem 0 1rem 0;">
   <a href="assets/files/research-statement-xinyu-fang.pdf" class="btn-chip" target="_blank">Research Statement (PDF)</a>
-  <a href="assets/files/cv-xinyu-fang.pdf" class="btn-chip" target="_blank">Industry CV</a>
-  <a href="assets/files/cv-xinyu-fang-academic.pdf" class="btn-chip" target="_blank">Academic CV</a>
 </p>
 
 ---
