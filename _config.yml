@@ -1,37 +1,35 @@
-url: "hanchaozhang.xyz "
+url: "xinyu-fang.github.io"
 # baseurl: /Hanchao-Zhang.github.io
-# Basic Information 
+# Basic Information
 title: Xinyu Fang
 # subtitle:
-position: Ph.D. Student (2022-202?)
-subposition: Laboratory for Intelligent Systems and Control
+position: Autonomous UAS Engineer @ Buzz Inc.
+subposition: Ph.D., Mechanical Engineering · Cornell Ferrari Lab
 subposition_link: http://lisc.mae.cornell.edu/
-affiliation: Cornell University
-subaffiliation: Sibley School of Mechanical and Aerospace Engineering
-affiliation_link: https://www.cornell.edu/
-subaffiliation_link: https://www.mae.cornell.edu/mae
+affiliation: AI · Machine Learning · Robotics · Neuromorphic Control
+affiliation_link: https://scholar.google.com/citations?user=8AbFSe8AAAAJ&hl=en
 email: xf223@cornell.edu
-address: 529 Upson Hall, Ithaca NY, 14853
+address: Ithaca, NY · Open to remote or US relocation
 address_link: https://goo.gl/maps/9CrHuVRdX7RkHjbe8
 
 
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: Xinyu Fang
-description: Xinyu Fang's Personal Website
-canonical: https://laurentfang.github.io/xinyu-fang.github.io/
+keywords: Xinyu Fang, PhD, Cornell, robotics, machine learning, deep learning, computer vision, YOLO, PyTorch, neuromorphic, spiking neural networks, MPC, nonlinear control, UAV, drones, digital twin, Unreal Engine, PX4, ROS2, Ferrari Lab, autonomous systems, AI engineer
+description: Xinyu Fang - PhD roboticist (Cornell, Ferrari Lab) and Autonomous UAS Engineer. Building end-to-end AI, ML, and robotics systems across academia and industry.
+canonical: https://xinyu-fang.github.io/
 
-# Links 
+# Links
 # If you don't need one of them, you may delete the corresponding line.
 google_scholar: https://scholar.google.com/citations?user=8AbFSe8AAAAJ&hl=en
-cv_link: assets/files/HanchaoZhangCV.pdf
+cv_link: assets/files/cv-xinyu-fang.pdf
 github_link: https://github.com/laurentfang
 linkedin: https://www.linkedin.com/in/xinyufang/
 # twitter: https://twitter.com/tedddddy_zhang
 
-# Images (e.g., your profile picture and your website's favicon) 
-# "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
+# Images (e.g., your profile picture and your website's favicon)
+# "favicon" and "favicon_dark" are used for the light and dark modes, respectively.
 avatar: ./assets/img/avatar.jpg
 # logo: ./assets/img/logo.png
 favicon: ./assets/img/favicon.png
